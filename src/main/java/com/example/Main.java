@@ -33,6 +33,7 @@ public class Main {
                 if (r < minR) minR = r;
                 if (r > maxR) maxR = r;
 
+                
                 if (g < minG) minG = g;
                 if (g > maxG) maxG = g;
 

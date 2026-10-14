@@ -74,5 +74,9 @@ public class Main {
         HistogramPanel.mostrar(rojo, verde, azul);
         Image nueva = AbrirImagen.toImage(copy);
         frame.setImage(nueva);
+        frame.setImage(imagen);
     }
 }
+//Grises - Histograma sin contraste
+//Definir un umbral
+//Binarizar
